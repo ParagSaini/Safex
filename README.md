@@ -2,15 +2,17 @@
 You can create group like of your family, and each one in the group can see other members location.
 You can create as many groups you like as of now.
 <p float="left">
-    <img src="Screenshots/WelcomePage.png" width=240 height=485>
-    <img src="Screenshots/LoginPage.png" width=240 height=485>
-    <img src="Screenshots/RegistrationPage.png" width=240 height=485> 
-    <img src="Screenshots/HomePage.png" width=240 height=485>
-    <img src="Screenshots/CreateGroup.png" width=240 height=485>
-    <img src="Screenshots/ShareGroup.png" width=240 height=485>
-    <img src="Screenshots/JoinGroup.png" width=240 height=485>
-    <img src="Screenshots/SignOut.png" width=240 height=485>
-    <img src="Screenshots/GroupMembers.png" width=240 height=485>
-    <img src="Screenshots/UserLocation.png" width=240 height=485>
-    <img src="Screenshots/UserLocationHybrid.png" width=240    
+    <img src="screenshots/WelcomPage.png" width=240 height=485>
+    <img src="screenshots/LoginPage.png" width=240 height=485>
+    <img src="screenshots/RegistrationPage.png" width=240 height=485> 
+    <img src="screenshots/HomePage.png" width=240 height=485>
+    <img src="screenshots/CreateGroup.png" width=240 height=485>
+    <img src="screenshots/ShareGroup.png" width=240 height=485>
+    <img src="screenshots/JoinGroup.png" width=240 height=485>
+    <img src="screenshots/SignOut.png" width=240 height=485>
+    <img src="screenshots/GroupMembers.png" width=240 height=485>
+    <img src="screenshots/UserLocation.png" width=240 height=485>
+    <img src="screenshots/UserLocationHybrid.png" width=240 height=485> 
+    <img src="screenshots/LeaveGroup.png" width=240    
+         
 </p>
